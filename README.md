@@ -1,1 +1,0 @@
-# HMS - Hostel Management System
